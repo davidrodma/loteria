@@ -1,4 +1,4 @@
-/* Scripts para ser colado no console do navegador */
+/* Scripts para ser colado no console do navegador, na página de seleção de números. */
 
 function getApostas() {
   /**
